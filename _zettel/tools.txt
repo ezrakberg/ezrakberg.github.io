@@ -1,0 +1,48 @@
+Mir kam dann die Idee, dass ich das auf einer einfache Website erstellen könnte. 
+Bild als Hintergrund in einem div festlegen, dann fix an den Fuß des divs 
+montiert der schwarze Hintergrund; hier geht's mir vor allem um das konstante 
+Padding. Und in den schwarzen montierten Balken dann das Wort, IPA und meine 
+eigene Definition des Wortes.
+
+Und wie's aussieht, sollte das überhaupt kein Ding sein:
+> https://stackoverflow.com/questions/6887183/how-to-take-screenshot-of-a-div-with-javascript
+-- http://html2canvas.hertzen.com/documentation.html
+-- https://github.com/eligrey/FileSaver.js/
+
+Gibt auch ein Skript, mit dem man im Browser ein Bild croppen kann…
+> https://foliotek.github.io/Croppie/
+
+Allerdings geht das Erstellen eines Posts, wie der von heute in der Früh, sehr
+einfach. Die Illustrator-Vorlage ist quasi geschaffen. Wenn das Padding nicht 
+immer 100% akkurat ist, stört mich das auch nicht. Und ich kann es nach Belieben
+erweitern, wenn sich der kreative Geist weiterentwickeln will.
+
+Goethe Wörterbuch
+> http://woerterbuchnetz.de/cgi-bin/WBNetz/wbgui_py?sigle=GWB&lemid=JE03993&mode=Vernetzung&hitlist=&patternlist=&mainmode=
+
+Digitales Wörterbuch der Deutschen Sprache (DWDS)
+> https://www.dwds.de/wb/Ethik
+
+WortSchatz Universität Leipzig
+> http://corpora.informatik.uni-leipzig.de/de?corpusId=deu_newscrawl_2011
+
+Kriminologie-Lexikon ONLINE
+> http://www.krimlex.de/
+
+Krimipedia
+> http://www.kriminologie.uni-hamburg.de/wiki/index.php/Krimpedia:Hauptseite
+
+Criminologie (Blog)
+> http://criminologia.de/links/?cat_id=670
+  Criminologia ist ein Blog zu kriminologischen und kriminalpolitischen Themen, 
+  betrieben und gepflegt von (ehemaligen) Lehrenden und Studierenden des Instituts 
+  für kriminologische Sozialforschung (IKS) der Universität Hamburg und Lehrenden 
+  an der Fachhochschule für öffentliche Verwaltung NRW.
+  
+Das Konstanzer Inventar
+> https://www.ki.uni-konstanz.de/links/
+
+Linksammlung Kriminologie
+> http://www.jura.uni-tuebingen.de/einrichtungen/ifk/www
+
+-- http://www.awmf.org/uploads/tx_szleitlinien/054-002l_S1_Leichenschau_2013-01.pdf

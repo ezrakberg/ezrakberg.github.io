@@ -1,0 +1,24 @@
+Container
+#wortdestages 
+#weinderwoche
+
+Okay, der momentane Ablauf:
+1. Photo mit iPhone aufnehmen
+2. per HashPhotos auf den Computer transferieren
+3. per Illustrator Rahmen einstellen
+4. Recherche des Wortes und Verbalisierung
+5. Photo in Illustrator fertigstellen und als png exportieren
+6. Evernote Weboberfläche aufrufen und den Post schreiben
+7. Bild per HashPhotos auf das iPhone transferieren
+8. Instagram am iPhone aufrufen und Post erstellen
+ 
+ TODO
+ ✓ Die Tagging App vom iPhone hat ein Dienstprogramm für OSX
+ - Metadaten einsehen (welche sind zu entfernen? Ort,…)
+ - Wie kann der Workflow noch runder werden?
+ 
+Welche Container fallen mir noch ein?
+Welche Bilder könnte ich im Laufe des Tages noch nachreichen?
+Wann ist der optimale Zeitpunkt zum Posten? 
+Wie kann ich die Vorbereitung in den Griff bekommen?
+ 

@@ -1,0 +1,24 @@
+Wie bekomme ich den Content aus _site auf die Homepage?
+- Was passiert mit zu löschenden Resources?
+- Wie werden nur die neuen Resourcen erkannt? Timestamp in Jekyll?
+
+--clean. Szenario brute-force 
+1. Maintenanceseite aufladen
+2. .htaccess mit genereller Umleitung auf Maintenanceseite aufladen
+3. Alles außer Maintenanceseite löschen
+4. Content aufladen
+5. Default .htaccess aufladen
+6. Maintenanceseite löschen
+
+Das wird immer langsamer, je öfter man etwas aufspielt. Wenn aber etwas nicht
+mehr tun will, obwohl lokal alles passt, wäre das der Weg, der zu wählen wäre.
+
+--merge (default). 
+Es wird mit dem Zeitstempel gearbeitet. Waisen bleiben am Server.
+1. Ant kopiert einfach drüber, für alle Dateien, bei denen der Zeitstempel
+  älter ist, als am Entwicklungsrechner
+  
+Ant. Setzt voraus, dass am Computer Java installiert ist. Aber das wollen wir ja
+auch, weil wir mit Eclipse arbeiten. Da ist dann Ant bereits vorinstalliert.
+ 
+ 
